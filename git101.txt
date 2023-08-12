@@ -1,1 +1,6 @@
-This file contains git commands. 
+This file contains GIT commands. 
++-----------------+-----------------------------------------------+
+|     Command     |                   Explanation                 |
++-----------------+-----------------------------------------------+
+| git clone URL   | Used to clone Git repository on local machine |         
++-----------------+-----------------------------------------------+
